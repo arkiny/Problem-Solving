@@ -1,0 +1,24 @@
+larvae Submission 		 Heedong Lee
+Submission Date: 07/06/13 6:45 am
+Submission Type: Zipped package
+Package Contents: 
+Main.java
+Honeycomb.java
+
+Your Output 	 Expected Output 	 Result 
+
+
+0		0		Pass
+10080		10080		Pass
+6		6		Pass
+47977776		47977776		Pass
+2040		2040		Pass
+1588356		1588356		Pass
+12		12		Pass
+54810		54810		Pass
+8676360		8676360		Pass
+266378112		266378112		Pass
+90		90		Pass
+360		360		Pass
+290640		290640		Pass
+1488801600		1488801600		Pass

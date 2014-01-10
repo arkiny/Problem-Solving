@@ -1,0 +1,197 @@
+903 LinkedList Submission 		 Heedong Lee
+Submission Date: 06/09/13 3:20 am
+Submission Type: Zipped package
+Package Contents: 
+ILinkedList.java
+Main.java
+SinglyNode.java
+SinglyLinkedList.java
+
+Your Output 	 Expected Output 	 Result 
+
+
+print 10 10		print 10 10		Pass
+<EMPTY>		<EMPTY>		Pass
+add 10 10		add 10 10		Pass
+remove 10 10		remove 10 10		Pass
+print 10 10		print 10 10		Pass
+<EMPTY>		<EMPTY>		Pass
+contains 59 1		contains 59 1		Pass
+false		false		Pass
+get 49 2		get 49 2		Pass
+out of bounds		out of bounds		Pass
+print 57 8		print 57 8		Pass
+<EMPTY>		<EMPTY>		Pass
+set 69 4		set 69 4		Pass
+out of bounds		out of bounds		Pass
+indexOf 98 6		indexOf 98 6		Pass
+not found		not found		Pass
+get 19 3		get 19 3		Pass
+out of bounds		out of bounds		Pass
+get 43 8		get 43 8		Pass
+out of bounds		out of bounds		Pass
+addp 94 8		addp 94 8		Pass
+No such index		No such index		Pass
+add 29 5		add 29 5		Pass
+indexOf 27 6		indexOf 27 6		Pass
+not found		not found		Pass
+remove 31 7		remove 31 7		Pass
+not found		not found		Pass
+addp 6 0		addp 6 0		Pass
+contains 15 5		contains 15 5		Pass
+false		false		Pass
+contains 49 8		contains 49 8		Pass
+false		false		Pass
+contains 71 7		contains 71 7		Pass
+false		false		Pass
+set 82 0		set 82 0		Pass
+print 76 7		print 76 7		Pass
+82 29		82 29		Pass
+contains 49 4		contains 49 4		Pass
+false		false		Pass
+remove 44 0		remove 44 0		Pass
+not found		not found		Pass
+print 62 8		print 62 8		Pass
+82 29		82 29		Pass
+print 13 9		print 13 9		Pass
+82 29		82 29		Pass
+remove 94 7		remove 94 7		Pass
+not found		not found		Pass
+indexOf 97 3		indexOf 97 3		Pass
+not found		not found		Pass
+print 79 3		print 79 3		Pass
+82 29		82 29		Pass
+contains 98 4		contains 98 4		Pass
+false		false		Pass
+add 95 0		add 95 0		Pass
+addp 87 5		addp 87 5		Pass
+No such index		No such index		Pass
+contains 6 1		contains 6 1		Pass
+false		false		Pass
+remove 51 7		remove 51 7		Pass
+not found		not found		Pass
+contains 28 0		contains 28 0		Pass
+false		false		Pass
+print 83 7		print 83 7		Pass
+95 82 29		95 82 29		Pass
+get 66 5		get 66 5		Pass
+out of bounds		out of bounds		Pass
+indexOf 50 7		indexOf 50 7		Pass
+not found		not found		Pass
+indexOf 57 5		indexOf 57 5		Pass
+not found		not found		Pass
+add 14 8		add 14 8		Pass
+addp 47 9		addp 47 9		Pass
+No such index		No such index		Pass
+set 18 1		set 18 1		Pass
+get 8 6		get 8 6		Pass
+out of bounds		out of bounds		Pass
+addp 74 1		addp 74 1		Pass
+get 83 0		get 83 0		Pass
+out of bounds		out of bounds		Pass
+set 61 4		set 61 4		Pass
+remove 16 9		remove 16 9		Pass
+not found		not found		Pass
+addp 54 8		addp 54 8		Pass
+No such index		No such index		Pass
+print 86 5		print 86 5		Pass
+14 74 18 82 61		14 74 18 82 61		Pass
+indexOf 68 7		indexOf 68 7		Pass
+not found		not found		Pass
+contains 47 0		contains 47 0		Pass
+false		false		Pass
+set 33 8		set 33 8		Pass
+out of bounds		out of bounds		Pass
+indexOf 65 1		indexOf 65 1		Pass
+not found		not found		Pass
+indexOf 61 6		indexOf 61 6		Pass
+4		4		Pass
+addp 57 5		addp 57 5		Pass
+No such index		No such index		Pass
+indexOf 29 8		indexOf 29 8		Pass
+not found		not found		Pass
+remove 47 3		remove 47 3		Pass
+not found		not found		Pass
+contains 23 5		contains 23 5		Pass
+false		false		Pass
+remove 27 6		remove 27 6		Pass
+not found		not found		Pass
+get 47 7		get 47 7		Pass
+out of bounds		out of bounds		Pass
+set 21 1		set 21 1		Pass
+set 73 7		set 73 7		Pass
+out of bounds		out of bounds		Pass
+print 59 4		print 59 4		Pass
+14 21 18 82 61		14 21 18 82 61		Pass
+get 47 2		get 47 2		Pass
+out of bounds		out of bounds		Pass
+indexOf 73 7		indexOf 73 7		Pass
+not found		not found		Pass
+get 80 1		get 80 1		Pass
+out of bounds		out of bounds		Pass
+contains 53 8		contains 53 8		Pass
+false		false		Pass
+remove 69 4		remove 69 4		Pass
+not found		not found		Pass
+set 58 8		set 58 8		Pass
+out of bounds		out of bounds		Pass
+set 95 9		set 95 9		Pass
+out of bounds		out of bounds		Pass
+print 60 9		print 60 9		Pass
+14 21 18 82 61		14 21 18 82 61		Pass
+indexOf 18 2		indexOf 18 2		Pass
+2		2		Pass
+indexOf 10 0		indexOf 10 0		Pass
+not found		not found		Pass
+remove 77 7		remove 77 7		Pass
+not found		not found		Pass
+contains 63 6		contains 63 6		Pass
+false		false		Pass
+contains 77 3		contains 77 3		Pass
+false		false		Pass
+print 21 7		print 21 7		Pass
+14 21 18 82 61		14 21 18 82 61		Pass
+set 23 7		set 23 7		Pass
+out of bounds		out of bounds		Pass
+get 87 5		get 87 5		Pass
+out of bounds		out of bounds		Pass
+indexOf 31 9		indexOf 31 9		Pass
+not found		not found		Pass
+print 50 6		print 50 6		Pass
+14 21 18 82 61		14 21 18 82 61		Pass
+set 12 6		set 12 6		Pass
+out of bounds		out of bounds		Pass
+get 38 3		get 38 3		Pass
+out of bounds		out of bounds		Pass
+set 86 4		set 86 4		Pass
+print 28 5		print 28 5		Pass
+14 21 18 82 86		14 21 18 82 86		Pass
+contains 2 0		contains 2 0		Pass
+false		false		Pass
+set 9 1		set 9 1		Pass
+remove 59 6		remove 59 6		Pass
+not found		not found		Pass
+remove 31 4		remove 31 4		Pass
+not found		not found		Pass
+addp 95 0		addp 95 0		Pass
+contains 7 0		contains 7 0		Pass
+false		false		Pass
+print 67 1		print 67 1		Pass
+95 14 9 18 82 86		95 14 9 18 82 86		Pass
+remove 66 7		remove 66 7		Pass
+not found		not found		Pass
+add 60 2		add 60 2		Pass
+set 95 4		set 95 4		Pass
+add 71 3		add 71 3		Pass
+add 65 8		add 65 8		Pass
+get 42 4		get 42 4		Pass
+out of bounds		out of bounds		Pass
+set 37 7		set 37 7		Pass
+get 72 8		get 72 8		Pass
+out of bounds		out of bounds		Pass
+get 67 9		get 67 9		Pass
+out of bounds		out of bounds		Pass
+addp 50 0		addp 50 0		Pass
+addp 20 4		addp 20 4		Pass
+print 29 5		print 29 5		Pass
+50 65 71 60 20 95 14 9 95 37 86		50 65 71 60 20 95 14 9 95 37 86		Pass

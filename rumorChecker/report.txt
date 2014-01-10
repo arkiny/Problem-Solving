@@ -1,0 +1,117 @@
+rumors Submission 		 Heedong Lee
+Submission Date: 07/05/13 2:33 pm
+Submission Type: Zipped package
+Package Contents: 
+Graph.java
+Main.java
+Vertex.java
+FloydWarshall.java
+PrimMST.java
+RumorChecker.java
+Edge.java
+
+Your Output 	 Expected Output 	 Result 
+
+
+26 41		26 41		Pass
+3 44		3 44		Pass
+7 40		7 40		Pass
+65 23		65 23		Pass
+6 29		6 29		Pass
+34 27		34 27		Pass
+16 19		16 19		Pass
+26 23		26 23		Pass
+31 25		31 25		Pass
+10 21		10 21		Pass
+53 18		53 18		Pass
+1 20		1 20		Pass
+13 31		13 31		Pass
+6 189		6 189		Pass
+15 19		15 19		Pass
+17 26		17 26		Pass
+10 28		10 28		Pass
+35 26		35 26		Pass
+29 21		29 21		Pass
+47 20		47 20		Pass
+3 26		3 26		Pass
+72 17		72 17		Pass
+22 23		22 23		Pass
+25 20		25 20		Pass
+23 23		23 23		Pass
+23 20		23 20		Pass
+25 17		25 17		Pass
+10 53		10 53		Pass
+35 30		35 30		Pass
+77 28		77 28		Pass
+3 62		3 62		Pass
+12 18		12 18		Pass
+8 29		8 29		Pass
+7 25		7 25		Pass
+18 18		18 18		Pass
+2 20		2 20		Pass
+20 43		20 43		Pass
+11 19		11 19		Pass
+24 16		24 16		Pass
+74 24		74 24		Pass
+9 39		9 39		Pass
+8 56		8 56		Pass
+12 21		12 21		Pass
+14 18		14 18		Pass
+15 40		15 40		Pass
+31 19		31 19		Pass
+59 17		59 17		Pass
+34 25		34 25		Pass
+9 64		9 64		Pass
+26 29		26 29		Pass
+14 46		14 46		Pass
+13 26		13 26		Pass
+31 22		31 22		Pass
+7 19		7 19		Pass
+39 22		39 22		Pass
+50 21		50 21		Pass
+3 55		3 55		Pass
+21 29		21 29		Pass
+4 60		4 60		Pass
+14 26		14 26		Pass
+31 34		31 34		Pass
+22 16		22 16		Pass
+57 26		57 26		Pass
+9 73		9 73		Pass
+3 23		3 23		Pass
+8 34		8 34		Pass
+58 23		58 23		Pass
+1 75		1 75		Pass
+12 30		12 30		Pass
+61 23		61 23		Pass
+41 24		41 24		Pass
+4 34		4 34		Pass
+41 23		41 23		Pass
+5 18		5 18		Pass
+14 20		14 20		Pass
+14 47		14 47		Pass
+47 25		47 25		Pass
+18 45		18 45		Pass
+7 20		7 20		Pass
+9 33		9 33		Pass
+8 15		8 15		Pass
+24 22		24 22		Pass
+11 20		11 20		Pass
+7 23		7 23		Pass
+40 26		40 26		Pass
+33 17		33 17		Pass
+23 23		23 23		Pass
+7 23		7 23		Pass
+7 28		7 28		Pass
+41 21		41 21		Pass
+32 24		32 24		Pass
+9 25		9 25		Pass
+3 20		3 20		Pass
+21 21		21 21		Pass
+7 45		7 45		Pass
+47 18		47 18		Pass
+13 30		13 30		Pass
+30 29		30 29		Pass
+1 46		1 46		Pass
+17 14		17 14		Pass
+disjoint		disjoint		Pass
+disjoint		disjoint		Pass
